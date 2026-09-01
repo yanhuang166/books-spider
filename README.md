@@ -19,5 +19,6 @@
 ## 运行
 
 ```bash
-python 全站详情页爬取.py
+python my_five_spider.py
+
 
